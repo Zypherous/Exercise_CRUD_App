@@ -1,0 +1,12 @@
+.container-footer > ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-bottom: 0rem;
+  margin-top: 10rem;
+  background-color: #efefef;
+  color: #757575;
+  padding: 30px;
+  gap: 3rem;
+  height: 3rem;
+}

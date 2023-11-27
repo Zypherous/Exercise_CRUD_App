@@ -1,0 +1,33 @@
+.navBar-container {
+  background-color: #0070bf;
+}
+
+.navBar > ul {
+  margin-top: 0;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin-left: 1rem;
+  gap: 3rem;
+  list-style-type: none;
+  margin-right: 3rem;
+  height: 3rem;
+  color: #f0f2f4;
+}
+.logo {
+  align-self: flex-start;
+  margin-right: 50rem;
+  margin-top: -2rem;
+}
+.logo-image {
+  width: 70px;
+  height: 70px;
+}
+
+.text-link {
+  font-size: 1.7rem;
+  color: #f0f2f4;
+  text-decoration: none;
+  list-style-type: none;
+}
