@@ -1,0 +1,68 @@
+.exercise-body {
+  display: grid;
+  grid-template: repeat(6, 25rem) / repeat(6, 30rem);
+}
+
+.container-exercise {
+  margin-left: 3rem;
+  margin-top: 2rem;
+  width: 300px;
+  overflow: hidden;
+  box-shadow: 0px 0px 15px -5px;
+  transition: 0.3s;
+  animation: ease-in-out;
+}
+.container-exercise:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 15px -5px;
+}
+
+.img-container {
+  overflow: hidden;
+  height: 200px;
+}
+.exercise-content {
+  margin: 1rem;
+  margin-top: 0.5rem;
+}
+
+.add-exercise {
+  background-color: #0070bf;
+  margin-top: 2rem;
+  margin-left: 3rem;
+  color: #f0f2f4;
+  transition: 0.5s;
+}
+.add-exercise:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 15px -5px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+#exeSearch {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  margin-left: 40rem;
+  height: 2rem;
+  width: 40rem;
+  border-radius: 40px;
+  padding: 10px;
+  margin-top: 1.5rem;
+}
+
+.exeButton {
+  margin-bottom: 2rem;
+  margin-left: 62rem;
+  height: 3rem;
+  width: 9rem;
+  background-color: #f8f9fa;
+  border: #f8f9fa;
+  color: #0070bf;
+  transition: 0.5s;
+}
+.exeButton:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 15px -5px;
+}
