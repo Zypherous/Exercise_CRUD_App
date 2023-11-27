@@ -1,0 +1,16 @@
+Insert into workouts (workout_name,numsets,numreps,time) values
+('FullBod No Weights',3,8,"0"),
+('FullBod No Weights',3,8,"0"),
+('FullBod No Weights',3,8,"0"),
+('FullBod No Weights',3,8,"0"),
+('FullBod No Weights',3,8,"0"),
+('Big Gainz',3,8,"0"),
+('Big Gainz',3,8,"0"),
+('Big Gainz',3,8,"0",
+('Big Gainz',3,8,"0"),
+('Big Gainz',3,8,"0"),
+('Burnout',3,0,'1min'),
+('Burnout',3,0,'1min'),
+('Burnout',3,0,'1min'),
+('Burnout',3,0,'1min'),
+('Burnout',1,0,'1min');

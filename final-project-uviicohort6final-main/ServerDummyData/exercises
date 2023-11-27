@@ -1,0 +1,7 @@
+insert into exercises (name, description, picture, bodyweight) values
+	('Push-up', 'Pushing movement for chest', '', true),
+	('Squat', 'Pushing movement for legs', '', true),
+	('Pull-up', 'Pulling movement on bar for back', '', true),
+	('Lunge', 'Movement for glutes and and legs', '', true),
+	('Plank', 'Abdominal exercise', '', true),
+	('Bench-Press', 'Pushing movement for chest with barbell', '', false);

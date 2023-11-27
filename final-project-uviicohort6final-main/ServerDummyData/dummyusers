@@ -1,0 +1,7 @@
+INSERT INTO public.users(
+	 username)
+	VALUES ('Jonathan'),
+			('Alouseny'),
+			('Emma'),
+			('Yang'),
+			('Edward');

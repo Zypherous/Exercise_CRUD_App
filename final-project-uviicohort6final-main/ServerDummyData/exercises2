@@ -1,0 +1,32 @@
+INSERT INTO public.exercises(
+	 exercise_name, description, picture, bodyweight)
+	VALUES  ( 'DB Bicep Curl', 'Movement for biceps', '', false),
+			( 'DB Tricep Extension', 'Movement for triceps', '', false),
+			( 'Deadlift', 'Movement for fullbody', '', false),
+			( 'Kettlebell Swing', 'Movement for full body', '', false),
+			( 'Farmers Carry', 'Movement for full body', '', false),
+			( 'DB Front Raise', 'Movement for delts', '', false),
+			( 'DB Hammer Curl', 'Movement for biceps', '', false),
+			( 'DB Chest Press', 'Movement for pecs', '', false),
+			( 'DB Row', 'Movement for lats', '', false),
+			( 'DB Overhead Press', 'Movement for delts', '', false),
+			( 'Step-up', 'Movement for glutes and legs', '', false),
+			( 'Bent-over Row', 'Movement for lats', '', false),
+			( 'Calf Raise', 'Movement for calves', '', false),
+			( 'Hip Bridge', 'Movement for glutes', '', false),
+			( 'Push Press', 'Movement for full body', '', false),
+			( 'Roll Out', 'Movement for abs', '', false),
+			( 'Dips', 'Movement for triceps', '', true),
+			( 'L-Sits', 'Movement for abs', '', true),
+			( 'Leg Raises', 'Movement for abs', '', true),
+			( 'Leg Extension', 'Movement for quads', '', false),
+			( 'Leg Curls', 'Movement for hamstrings', '', false),
+			( 'Single Leg Glute Bridge', 'Movement for hamstrings', '', true),
+			( 'Box Jumps', 'Movement for legs', '', true),
+			( 'Jog', 'Movement for cardio', '', true),
+			( 'Jump Rope', 'Movement for cardio', '', false),
+			( 'Bicycle Crunch', 'Movement for abs', '', false),
+			( 'Face-pulls', 'Movement for rear delts', '', false),
+			( 'Wrist Curls', 'Movement for forearms', '', false);
+			
+		
